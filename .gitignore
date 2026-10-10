@@ -1,6 +1,8 @@
-!**/
-
-!app/lib/bmp388.c
-!app/lib/bmp388.h
+**/
+Makefile
 
 !.gitignore
+!bmp388.c
+!bmp388.h
+!readme
+!license
